@@ -1,2 +1,2 @@
-- 📫 Telegram: @itcaat
+- 📫 Telegram: [@itcaat](https://t.me/itcaat)
 - 📫 Telegram Channel: [@DevOps Brain](https://t.me/devopsbrain)

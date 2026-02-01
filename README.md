@@ -54,7 +54,6 @@ I've always worked in **product companies**: launched and developed internal IT,
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat-square&logo=terraform&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-5C2D91?style=flat-square&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white)
 

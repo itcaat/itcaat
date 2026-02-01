@@ -1,11 +1,46 @@
-Hi, I'm Nikita, an engineer who can listen to business and speak the same language with it. I work at the intersection of DevOps/SRE, product engineering and common sense. I've always worked only in product companies: I launched and developed internal IT, improved processes, monitored thousands of servers, woke up at night from calls from the "iron lady" and drunkenly raised servers at corporate parties.
+<div align="center">
 
-I have thousands of solved problems behind me, from building pipelines to migrating infrastructures. I can easily switch between tasks without losing context (this is generally my trump card). I can manage a team, or I can not manage and do everything myself. I can write an application, or I can cut through ready-made solutions. I can automate where it hurts. I understand when it is necessary to optimize and when it is better not to touch. I can set up monitoring so that the "iron lady" on-call calls at night only when it's completely fucked up...
+# Hey, I'm Nikita 👋
 
-Write or call - always glad to meet you!
+### DevOps/SRE Engineer | Product Mindset | Common Sense Advocate
 
-🌐 Website: https://devopsbrain.ru
+<a href="https://x.com/itcaat"><img src="https://img.shields.io/badge/X-@itcaat-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://t.me/devopsbrain"><img src="https://img.shields.io/badge/Telegram-DevOps Brain-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://devopsbrain.ru"><img src="https://img.shields.io/badge/Blog-devopsbrain.ru-green?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
-📫 Telegram me: [@itcaat](https://t.me/itcaat)
+</div>
 
-📫 Telegram channel: [@DevOps Brain](https://t.me/devopsbrain)
+---
+
+## 🧠 About Me
+
+An engineer who **listens to business** and speaks its language. I work at the intersection of **DevOps/SRE**, **product engineering**, and **common sense**.
+
+I've always worked in **product companies**: launched and developed internal IT, improved processes, monitored thousands of servers, woke up at night from calls from the *"iron lady"*, and drunkenly raised servers at corporate parties.
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://t.me/itcaat"><img src="https://img.shields.io/badge/Message_me-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+</div>

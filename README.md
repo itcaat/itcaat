@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 An engineer who **listens to business** and speaks its language. I work at the intersection of **DevOps/SRE**, **product engineering**, and **common sense**.
 
@@ -21,7 +21,7 @@ I've always worked in **product companies**: launched and developed internal IT,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 

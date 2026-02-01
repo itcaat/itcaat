@@ -56,6 +56,7 @@ I've always worked in **product companies**: launched and developed internal IT,
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat-square&logo=terraform&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=flat-square&logo=yandexcloud&logoColor=white)
 
 
 </div>
